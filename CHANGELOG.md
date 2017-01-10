@@ -1,4 +1,4 @@
-# Change Log
+# Change Log!
 
 Details changes in each release of EarlGrey. EarlGrey follows
 [semantic versioning](http://semver.org/).
